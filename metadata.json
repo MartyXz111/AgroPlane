@@ -1,0 +1,8 @@
+{
+  "name": "AgroPlan",
+  "description": "An intelligent agricultural companion for seasonal planning, crop advice, and automated task management using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
